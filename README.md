@@ -1,4 +1,4 @@
-# Decrpcated! please use [traefik-safeline](https://github.com/chaitin/traefik-safeline) instead.
+# Deprecated! please use [traefik-safeline](https://github.com/chaitin/traefik-safeline) instead.
 
 # Traefik Plugin Safeline
 
