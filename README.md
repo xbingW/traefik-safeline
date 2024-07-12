@@ -1,3 +1,5 @@
+# Decrpcated! please use [traefik-safeline](https://github.com/chaitin/traefik-safeline) instead.
+
 # Traefik Plugin Safeline
 
 This plugin is a middleware for Traefik that can be used to detect and block malicious requests which base on the [Safeline](https://waf.chaitin.com/) engine.
