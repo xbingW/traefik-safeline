@@ -1,4 +1,4 @@
-module github.com/chaitin/traefik-safeline
+module github.com/xbingW/traefik-safeline
 
 go 1.17
 
