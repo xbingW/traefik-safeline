@@ -1,4 +1,4 @@
-r: [Deprecated] Chaitin Safeline WAF
+r: Deprecated Chaitin Safeline WAF
 type: middleware
 
 import: github.com/xbingW/traefik-safeline
